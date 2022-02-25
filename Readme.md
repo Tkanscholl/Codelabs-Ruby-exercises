@@ -14,3 +14,20 @@ Here is a list of ruby terms and definitions used in class.
 <em>**Operators**</em> - commands for specific math functions <br>
 <em>**Class**</em> - blueprint from which individual objects are created <br>
 <em>**Gem**</em> - a ruby program <br>
+## Part 2
+<em>**Conditional**</em> - INSERT DEFINITION HERE <br>
+<em>**The difference between if, elseif and else.**</em> - if is a simple condition. else if lets you do multiple branches.  else is a single condition<br>
+<em>**What are Case/When statements? </em> - INSERT DEfINNITION HERE <br>
+<em>**What is a data structure? </em> - INSERT ANSWER HERE <rb>
+<em>**Arrays**</em> - ordered lists of item <br>
+<em>**What is meant by 'built-in' methods?**</em> - methods that ruby has included that you dont have to create yourself <br>
+<em>**Loops**</em> - a cycle of working thru objects <br>
+<em>**What are infinite loops?**</em> - loops that dont have an ending <br>
+<em>**What is meant by 'built-in' methods?**</em> - methods that ruby has included that you dont have to create yourself<br>
+## Part 3
+<em>**What is Object Oriented Programming?**</em> - a method of programing that each item is its own object  <br>
+<em>**Class inheritance**</em> - a way of creating a class and having it get the same items as another class <br>
+<em>**What are getters and setters?**</em> - getters are methods of accessing attributes of methods, setters are setting the attributes <br>
+<em>**Difference between class variables and instance variables and class attributes?**</em> - INSERT ANSWER HERE <br>
+<em>**What does self signify in a class?**</em> - INSERT ANSWER HERE <br>
+<em>**Modules</em> - INSERT DEFINITION HERE <br
